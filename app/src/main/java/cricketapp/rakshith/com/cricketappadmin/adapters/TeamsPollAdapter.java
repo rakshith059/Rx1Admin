@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import cricketapp.rakshith.com.cricketapp.R;
+import cricketapp.rakshith.com.cricketappadmin.R;
 import cricketapp.rakshith.com.cricketappadmin.models.TeamList;
 
 /**

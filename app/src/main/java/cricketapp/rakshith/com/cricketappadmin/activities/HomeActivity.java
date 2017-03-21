@@ -23,7 +23,7 @@ import com.google.firebase.storage.StorageReference;
 
 import java.util.ArrayList;
 
-import cricketapp.rakshith.com.cricketapp.R;
+import cricketapp.rakshith.com.cricketappadmin.R;
 import cricketapp.rakshith.com.cricketappadmin.fragments.HomeFragment;
 
 public class HomeActivity extends BaseActivity implements GoogleApiClient.OnConnectionFailedListener {

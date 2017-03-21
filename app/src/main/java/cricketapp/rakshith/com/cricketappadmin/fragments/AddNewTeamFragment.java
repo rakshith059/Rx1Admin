@@ -35,7 +35,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import cricketapp.rakshith.com.cricketapp.R;
+import cricketapp.rakshith.com.cricketappadmin.R;
 import cricketapp.rakshith.com.cricketappadmin.Utils.Constants;
 import cricketapp.rakshith.com.cricketappadmin.activities.HomeActivity;
 import cricketapp.rakshith.com.cricketappadmin.models.MemberItem;

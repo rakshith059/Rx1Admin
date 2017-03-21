@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import cricketapp.rakshith.com.cricketapp.R;
+import cricketapp.rakshith.com.cricketappadmin.R;
 import cricketapp.rakshith.com.cricketappadmin.Utils.Constants;
 import cricketapp.rakshith.com.cricketappadmin.adapters.PlayerStatsAdapter;
 import cricketapp.rakshith.com.cricketappadmin.models.MemberStats;

@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
-import cricketapp.rakshith.com.cricketapp.R;
+import cricketapp.rakshith.com.cricketappadmin.R;
 
 public class SplashActivity extends AppCompatActivity {
 

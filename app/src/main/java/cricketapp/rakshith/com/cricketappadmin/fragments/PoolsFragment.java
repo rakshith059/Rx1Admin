@@ -22,7 +22,7 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.List;
 import java.util.Map;
 
-import cricketapp.rakshith.com.cricketapp.R;
+import cricketapp.rakshith.com.cricketappadmin.R;
 import cricketapp.rakshith.com.cricketappadmin.Utils.Constants;
 import cricketapp.rakshith.com.cricketappadmin.Utils.RecyclerItemDecorator;
 import cricketapp.rakshith.com.cricketappadmin.activities.HomeActivity;
